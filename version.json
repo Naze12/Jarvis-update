@@ -1,6 +1,7 @@
 {
-  "build": 36,
-  "verzija": "2.8",
-  "napomena": "Novo ažuriranje (build 36).",
-  "sha256": "dd151852ead87f0caa6d6651827bb11649444fec76020b49cfe3b1487829a753"
+  "build": 41,
+  "verzija": "3.0",
+  "paket": "https://raw.githubusercontent.com/Naze12/Jarvis-update/refs/heads/main/jarvis_update.zip",
+  "sha256": "3f81ce173f5394f5d02b2f426dd9453715b6202a266a32d618976b518b435fbe",
+  "napomena": "NOVE ANIMACIJE I ZVUKOVI ARC REAKTORA, NOVI IZGLED MENIJA, FIXED WINDOWS MOVING"
 }
